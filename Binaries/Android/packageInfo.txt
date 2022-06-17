@@ -1,0 +1,4 @@
+com.CryoVR.TFS_Vitrobot
+3
+22.0312
+name='com.epicgames.ue4.GameActivity.AppType' value=''
